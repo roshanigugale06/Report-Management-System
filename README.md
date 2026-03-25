@@ -1,2 +1,2 @@
 # Report-Management-System
-All issuse report 
+ Report-Management-System is a web-based civic issues reporting system that allows citizens to report problems like garbage, potholes, water leakage, and street light issues using real-time photo proof and live GPS location. The system supports anonymous reporting, complaint tracking with a unique ID, and proof-based resolution through an admin dashboard. It also enables community help through notifications and includes emergency contacts and NGO-based beggar assistance for social responsibility.
